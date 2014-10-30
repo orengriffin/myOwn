@@ -1,0 +1,12 @@
+{
+    "name": "application-name",
+    "version": "0.0.1",
+    "dependencies": {
+
+        "mongodb":"*",
+        "mongoskin": "*",
+        "express": "^4.0.0",
+        "passport-facebook" : "*"
+    }
+
+}
